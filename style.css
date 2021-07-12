@@ -163,27 +163,3 @@ ion-icon{
   color: #FFBB06;
   font-size: 20px;
 }
-
-
-.footer{
-  position: absolute;
-  right: 5%;
-  bottom: 2%;
-  color: #FFBB06;
-}
-
-.footer a{
-  text-decoration: none;
-  color: #FFBB06;
-}
-
-.footer a:hover{
-  text-decoration: underline;
-}
-
-@media(max-width: 441px){
-  .footer{
-    font-size: 15px;
-    bottom: -5%;
-  }
-}
