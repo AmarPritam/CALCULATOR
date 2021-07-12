@@ -185,5 +185,6 @@ ion-icon{
 @media(max-width: 441px){
   .footer{
     font-size: 15px;
+    bottom: -5%;
   }
 }
